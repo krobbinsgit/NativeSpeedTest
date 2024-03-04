@@ -12,4 +12,4 @@ I want the problems to be hardware native. The issue is that there isn't a "gene
 * Antiferromagnetic w/ strong bonds: $N$-spin chain with $h$ values set to $\pm 1$ (alternating) and $J$ values set to $-1$. Cyclic or no? *Should be exactly solvable.*
 * ```ran-k``` will create random problems. There is no easy way to consistently compare solutions though... unless I modify to ensure problem belongs to exactly-solvable class, maybe.
 * Same antiferromagnetic problem as bullet point 2 but 2D lattice instead of a chain. Cyclic or no?
-* 
+
